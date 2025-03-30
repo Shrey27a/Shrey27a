@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/bf/d4/bb/bfd4bb1d9c46275debde227178855ab7.gif" width="100%" height="75%" />
+  <img src="https://pa1.aminoapps.com/5966/87bcf3948f787dc8918dcc4981701c92c6742d4a_hq.gif" width="100%" height="75%" />
 </div>
 
 ###
@@ -63,8 +63,8 @@ You can also connect with me on LinkedIn! </p>
   </a>
  
 </div>
+<br>
 
-###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrey27a/Shrey27a/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrey27a/Shrey27a/output/pacman-contribution-graph.svg">
